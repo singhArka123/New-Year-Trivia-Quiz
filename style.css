@@ -1,0 +1,9 @@
+body {
+	font-family: "Trebuchet MS", "Tahoma", sans-serif;
+	height: 100%;
+	margin: 0;
+}
+.describe {
+	color: white;
+	text-align: center;
+}
