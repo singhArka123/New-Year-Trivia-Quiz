@@ -4,7 +4,18 @@ body {
 	margin: 0;
 }
 .describe {
-	color: black;
+	color: white;
 	text-align: center;
 }
 
+.bg {
+	background-image: url("Fireworks.jpg");
+	height: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.instructions, html {
+	background-color: black;
+}
